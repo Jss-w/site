@@ -1,0 +1,32 @@
+﻿.mt10{
+    margin-top: 10px;
+}
+.ovhid{
+    overflow: hidden;
+}
+.bord{
+    border: 1px solid $borderColor;
+}
+.clearfix{
+    zoom: 1;
+}
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden
+}
+.fl{
+    float: left;
+}
+.clr-a{
+    color: $colorTip;
+}
+a{
+    color: #333;
+}
+a:hover{
+    color: $aHover;
+}

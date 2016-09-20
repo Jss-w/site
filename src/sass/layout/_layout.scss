@@ -1,0 +1,26 @@
+﻿.site{
+    .content-width {
+        margin: 0 auto;
+        width: 1000px;
+    }
+    .content{
+        margin-top: 20px;
+    }
+    .content-top{
+        padding-top: 10px;
+        border-top: 2px solid $borderColorGroup;
+    }
+    .content-bottom{
+        border-top: 1px solid $borderColorGroup;
+    }
+    .sidebar{
+        float: right;
+        width: 280px;
+    }
+    .mainbar{
+        margin-right: 290px;
+        _float: right;
+        _margin-right: 13px;
+        overflow: hidden;
+    }
+}
